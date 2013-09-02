@@ -85,7 +85,7 @@
 }
 #texto_de_descricao
 {
-	background: #ffffff;
+	background: #222222;
 	width: 300px;
 	position: relative;
 	float: left;
